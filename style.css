@@ -1,0 +1,100 @@
+.body{
+    display: flex;
+    background: pink;
+    justify-content: center;
+}
+.img{
+    padding-left: 135px;
+    padding-top: 25px;
+    height: 85px;
+    width: 85px;
+
+}
+.white-box{
+    height: 550px;
+    width: 350px;
+    background-color: #fff;
+    border-radius: 24px;
+    margin-top: 90px;
+}
+.Tina{
+    display: flex;
+    justify-content: center;
+    font-family: 'Mulish', sans-serif;
+    margin-top: 20px;
+    font-size: 16px;
+    text-align: center;
+}
+.channel-name{
+    display: flex;
+    justify-content: center;
+    font-family: 'Mulish', sans-serif;
+    font-size: 24px;
+    font-weight: 800;
+    height: 30px;
+    margin-top: 15px;
+}
+.users{
+    display: flex;
+    justify-content: center;
+    font-family: 'Mulish', sans-serif;
+    line-height: 20px;
+    margin-top: 15px;
+    box-sizing: border-box;
+    background: #F8F4Fa;
+    padding: 8px;
+    border-radius: 8px;
+    width: 300px;
+    margin-left: 25px;
+}
+.username{
+    display: flex;
+    justify-content: center;
+    margin-right: 215px;
+    font-family: 'Mulish', sans-serif;
+    margin-top: 18px;
+    font-weight: 400px;
+}
+.username1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Mulish', sans-serif;
+    margin-right: 120px;
+    align-items: flex-start;
+    border: 1px solid ;
+    border-radius: 8px;
+    margin-left: 30px ;
+    width: 250px;
+    padding: 10px;
+}
+.label{
+    margin-left: 30px;
+}
+form{
+    margin-top: 25px;
+}
+.checkbox{
+    margin-left: 30px;
+    margin-top: 25px;
+}
+span{
+    margin-left: 50px;
+}
+button{
+    display: flex;
+    justify-content: center;
+    font-family: 'Mulish', sans-serif;
+    color:white;
+    background-color: purple;
+    width: 250px;
+    height: 40px;
+    align-items: center;
+    border-radius: 8px;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+.link{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
